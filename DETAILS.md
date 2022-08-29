@@ -1,6 +1,6 @@
 # How it works
 
-- On load of the page, I called a function 'loadUsers' which displays a default loading page proir to when users data is being fetched from fetchUsers function.
+- On load of the page, I called a function 'loadUsers' which displays a default loading page prior to when users data is being fetched from fetchUsers function.
 
 -After users data has been fetched, I called setUsers function which sets users data to result varialble, current page to pageNumber variable, pageKeys variable holds the two pages in an array since two pages are gotten at a time. pageKey variable keeps track of te data to be displayed.
 
